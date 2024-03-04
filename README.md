@@ -18,6 +18,8 @@ Bachelor of Science Business Administration – Business Information and Analyti
   <li><b>Dean's List</b>: Multiple Dean's List awards. Recognizes students dedicated to excellence, achieving a quarterly grade point average of 3.75 or above while taking at least 15 credit hours.</li>
   <li><b>Hornbeck Scholar</b>: One of the highest academic honors at University of Denver. Recognizes students who achieved a quarterly grade point average of 4.0 while taking a minimum of 12 credit hours..</li>
 </ul>
+
+<a name="profExp"></a>
 <hr>
 
 ## Jobs and Internships
