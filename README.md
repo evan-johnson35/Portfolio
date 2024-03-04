@@ -13,13 +13,11 @@
 
 ## Education
 ### Univeristy of Denver, Daniels College of Business
-Bachelor of Science Business Administration – Business Information and Analytics, June 2022
+Bachelor of Science Business Administration – Business Information and Analytics, June 2024
 
 <ul>
-  <li><b>Margery Reed Service Award</b>: This award recognizes outstanding commitment to Daniels Undergraduate Programs.</li>
-  <li><b>ANDREW H. WOOD Award</b>: This award goes to the students with the highest scholarship ranking in the 2021-2022 class.</li>
-  <li><b>Daniels Award for Excellence</b>: This is awarded to a student who has made an outstanding contribution to the College and demonstrates the Daniels' values of leadership, ethical behavior, appreciation of diversity, and service to the community.</li>
-  <li><b>Outstanding Business Information and Analytics Undergraduate</b>: Awarded in recognition of work at Daniels within Business Information and Analytics.</li>
+  <li><b>Dean's List</b>: Multiple Dean's List awards. Recognizes students dedicated to excellence, achieving a quarterly grade point average of 3.75 or above while taking at least 15 credit hours.</li>
+  <li><b>Hornbeck Scholar</b>: One of the highest academic honors at University of Denver. Recognizes students who achieved a quarterly grade point average of 4.0 while taking a minimum of 12 credit hours..</li>
 </ul>
 
 <a name="DanielsDistinction"></a>
