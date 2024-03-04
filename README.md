@@ -54,11 +54,16 @@ Bachelor of Science Business Administration – Business Information and Analyti
     </td>
     <td>
      <ul>
-        <li><a href = "https://www.credly.com/badges/e654fce3-19be-40b3-9347-228eea2ce3a1/public_url">Microsoft Expert Access 2019</a></li>
-        <li><a href = "https://www.credly.com/badges/23f6c6da-fbcd-4a01-bedc-2f9ca4e5a540/public_url">Microsoft Expert Excel 2019</a></li>
-        <li><a href = "https://www.credly.com/badges/ac1cb133-b395-4a61-a71c-8fd6ea908771/public_url">Microsoft Expert Word 2019</a></li>
-        <li><a href = "https://www.credly.com/badges/e1f089c5-e148-4a30-9dc3-b6551e873dd8/public_url">Microsoft Associate PowerPoint 2019</a></li>
-       <li><a href = "https://www.credly.com/badges/7204aaa1-f592-4582-bc1c-7444f5d49cba/public_url">Microsoft Associate Outlook 2019</a></li>
+        <li><a href = "https://www.credly.com/badges/6ae16839-79ec-41de-9fe7-e783ffc0b5fd/public_url">Python PCEP – Certified Entry-Level Python       
+        Programmer</a></li>
+        <li><a href = "https://www.credly.com/badges/ba163cc0-1c22-46dc-859e-5e0cc8a3f871/public_url">Microsoft Office Specialist: Associate (Office 
+        2019)</a></li>
+        <li><a href = "https://www.credly.com/badges/3b9b850e-5915-4a27-b7bc-f80e03fba8af/public_url">Microsoft Office Specialist: Word Associate 
+        (Office 2019)</a></li>
+        <li><a href = "https://www.credly.com/badges/8bbe7b1a-adf2-4f56-bf44-aef1354ee8f7/public_url">Microsoft Office Specialist: PowerPoint 
+        Associate (Office 2019)</a></li>
+       <li><a href = "https://www.credly.com/badges/cfc6c4b2-5fc1-45a1-8151-5da951e5c2cd/public_url">Microsoft Office Specialist: Excel Associate 
+       (Office 2019)</a></li>
       </ul>
     </td>
   </tr>
