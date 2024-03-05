@@ -6,7 +6,7 @@
 # Campus Involvement
 
 <ul>
-  <li><b>Dean's List</b>: Multiple Dean's List awards. Recognizes students dedicated to excellence, achieving a quarterly grade point average of 3.75 or above while taking at least 15 credit hours.</li>
+  <li><b>International Business Club - Social Chair</b>: Assist in organizing and promoting events with students where we have speakers or teacher talk to on a specified topic.</li>
   <li><b>Hornbeck Scholar</b>: One of the highest academic honors at University of Denver. Recognizes students who achieved a quarterly grade point average of 4.0 while taking a minimum of 12 credit hours..</li>
 </ul>
 <hr>
