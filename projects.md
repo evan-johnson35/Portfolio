@@ -7,8 +7,6 @@
 ## Projects
 <br>
 Optimization Modeling
-[<img src="https://user-images.githubusercontent.com/91146906/152109152-fbd18f8c-4c42-46f6-97cc-631c298e7eac.svg" height="35"/>](../UrbaczewskisPutters.ipynb)
-
 [<img src="https://github.com/evan-johnson35/Portfolio/blob/main/UrbaczewskisPutters.html" height="35"/>](../UrbaczewskisPutters.ipynb/#top)
 
 <a name="CommunucationInterpersonal"></a>
