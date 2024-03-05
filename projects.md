@@ -7,7 +7,7 @@
 
 <ul>
   <li><b>International Business Club - Social Chair</b>: Assist in organizing and promoting events with students where we have speakers or teacher talk to on a specified topic.</li>
-  <li><b>Pi Kappa Phi - Social Chair</b>: Organize events with other greek life organizations on campus. I help coordinate with venue and transportation services for these events. Other events include philanthropy events and our "formal," where we spend a weekend in Aspen or Telluride. </li>
+  <li><b>Pi Kappa Phi - Social Chair</b>: Organize events with other greek life organizations on campus. I help coordinate with venues and transportation services for these events. Other events I help with include philanthropy events and our "formal," where we spend a weekend in Aspen or Telluride. </li>
   <li><b>Hacky Sack Club - member</b>: My roommates and I love to hacky to clear our heads from school, so one of my roommates started a club at DU where we have hacky tournaments each quarter. </li>
 </ul>
 <hr>
@@ -22,6 +22,17 @@ Distribution and Demand: Objective is to minimize cost to ship goods from plants
 
 Distribution and Demand: My professor is moving to another country wanted to give away his cars to some of his students. The objective is to minimize the amount of miles traveled and follow strict constraints. 
 <br>[<img src="https://user-images.githubusercontent.com/91146906/152109152-fbd18f8c-4c42-46f6-97cc-631c298e7eac.svg" height="35"/>](/INFO3440Homework2.ipynb/#top)
+<hr>
+
+# Hobbies and Interests
+
+<ul>
+  <li><b>Snowboarding</b></li>
+  <li><b>Rock Climbing</b></li>
+  <li><b>Golf</b></li>
+  <li><b>Music Production/DJ</b></li>
+</ul>
+<hr>
 
 
 
