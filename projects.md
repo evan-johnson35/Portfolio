@@ -3,6 +3,12 @@
 [<img src="https://user-images.githubusercontent.com/91146906/152112781-2de05074-70b1-436b-9bfb-860890cc1de1.svg" height="35"/>](/README.md/#top)
 <hr>
 
+# Campus Involvement
+
+<ul>
+  <li><b>Dean's List</b>: Multiple Dean's List awards. Recognizes students dedicated to excellence, achieving a quarterly grade point average of 3.75 or above while taking at least 15 credit hours.</li>
+  <li><b>Hornbeck Scholar</b>: One of the highest academic honors at University of Denver. Recognizes students who achieved a quarterly grade point average of 4.0 while taking a minimum of 12 credit hours..</li>
+</ul>
 
 # Projects From DU
 <br>
