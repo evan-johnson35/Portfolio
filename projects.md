@@ -24,16 +24,6 @@ Distribution and Demand: My professor is moving to another country wanted to giv
 <br>[<img src="https://user-images.githubusercontent.com/91146906/152109152-fbd18f8c-4c42-46f6-97cc-631c298e7eac.svg" height="35"/>](/INFO3440Homework2.ipynb/#top)
 <hr>
 
-# Hobbies and Interests
-
-<ul>
-  <li><b>Snowboarding</b></li>
-  <li><b>Rock Climbing</b></li>
-  <li><b>Golf</b></li>
-  <li><b>Music Production/DJ</b></li>
-</ul>
-<hr>
-
 
 
 
