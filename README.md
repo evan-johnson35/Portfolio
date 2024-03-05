@@ -101,4 +101,15 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
 </table>
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
+<hr>
 
+# Hobbies and Interests
+
+<ul>
+  <li><b>Snowboarding</b></li>
+  <li><b>Rock Climbing</b></li>
+  <li><b>Golf</b></li>
+  <li><b>Music Production/DJ</b></li>
+</ul>
+<hr>
+[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
