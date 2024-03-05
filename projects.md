@@ -13,7 +13,7 @@ Distribution and Demand: Objective is to minimize cost to ship goods from plants
 <br>[<img src="https://user-images.githubusercontent.com/91146906/152109152-fbd18f8c-4c42-46f6-97cc-631c298e7eac.svg" height="35"/>](/UrbaczewskisPutters.ipynb/#top)
 
 Distribution and Demand: My professor is moving to another country wanted to give away his cars to some of his students. The objective is to minimize the amount of miles traveled and follow strict constraints. 
-<br>[<img src="https://user-images.githubusercontent.com/91146906/152109152-fbd18f8c-4c42-46f6-97cc-631c298e7eac.svg" height="35"/>](/UrbaczewskisPutters.ipynb/#top)
+<br>[<img src="https://user-images.githubusercontent.com/91146906/152109152-fbd18f8c-4c42-46f6-97cc-631c298e7eac.svg" height="35"/>](/INFO3440Homework2.ipynb/#top)
 
 
 
