@@ -7,7 +7,8 @@
 
 <ul>
   <li><b>International Business Club - Social Chair</b>: Assist in organizing and promoting events with students where we have speakers or teacher talk to on a specified topic.</li>
-  <li><b>Pi Kappa Phi - Social Chair</b>: Organize events with other greek life organizations on campus. I help coordinate with venue and transportation services for these events. Other events include philanthropy events and our "formal," where we spend a weekend in Aspen or Telluride.</li>
+  <li><b>Pi Kappa Phi - Social Chair</b>: Organize events with other greek life organizations on campus. I help coordinate with venue and transportation services for these events. Other events include philanthropy events and our "formal," where we spend a weekend in Aspen or Telluride. </li>
+  <li><b>Hacky Sack Club - member</b>: My roommates and I love to hacky to clear our heads from school, so one of my roommates started a club at DU where we have hacky tournaments each quarter. </li>
 </ul>
 <hr>
 
