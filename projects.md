@@ -4,9 +4,7 @@
 <hr>
 
 
-# Optimizaiton Modeling
-<br><br>
-Welcome to my Daniels Distinction Portfolio, highlighting my undergraduate experiences and work at the University of Denver!
+# Projects
 <br><br>
 [<img src="https://user-images.githubusercontent.com/91146906/160904313-d3515906-abf0-4f63-9a9c-c8dcdb80c446.svg" height="35"/>](#CommunucationInterpersonal)
 [<img src="https://user-images.githubusercontent.com/91146906/152071881-e4fdfd91-bd4d-42f6-a6f4-0e1234c6bfc7.svg" height="35"/>](#CommunityLeadership)
