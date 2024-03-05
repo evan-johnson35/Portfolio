@@ -7,7 +7,7 @@
 
 <ul>
   <li><b>International Business Club - Social Chair</b>: Assist in organizing and promoting events with students where we have speakers or teacher talk to on a specified topic.</li>
-  <li><b>Hornbeck Scholar</b>: One of the highest academic honors at University of Denver. Recognizes students who achieved a quarterly grade point average of 4.0 while taking a minimum of 12 credit hours..</li>
+  <li><b>Pi Kappa Phi - Social Chair</b>: Organize events with other greek life organizations on campus. I help coordinate with venue and transportation services for these events. Other events include philanthropy events and our "formal," where we spend a weekend in Aspen or Telluride.</li>
 </ul>
 <hr>
 
