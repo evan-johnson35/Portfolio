@@ -4,7 +4,7 @@
 <hr>
 
 
-### Projects
+# Projects
 <br>
 
 # Optimization Modeling: Maximize or minimize an objective function
